@@ -1,0 +1,44 @@
+html {
+  margin-left: 5%;
+  margin-right: 10%;
+  background: #111111;
+  color: white;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1 {
+    font-variant: small-caps;
+}
+
+h2 {
+  margin-left: 30px;
+}
+
+h3 {
+  margin-left: 50px;
+}
+
+ul {
+  margin-left: 60px;
+  list-style-type: square;
+}
+
+ol {
+  margin-left: 60px;
+}
+
+a, a.visited {
+    color: #afafff;
+    text-decoration: none;
+}
+
+p {
+    margin-left: 80px;
+    margin-right: 20%;
+}
+
+pre {
+    margin-left: 80px;
+    margin-right: 20%;
+}
+
